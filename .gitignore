@@ -23,6 +23,8 @@
 
 ## File-based project format:
 *.iws
+test/
+test/*
 
 ## Plugin-specific files:
 
@@ -32,6 +34,7 @@
 build
 .jira.entry
 MMS.iml
+mms.iml
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/

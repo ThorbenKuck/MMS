@@ -5,8 +5,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>MMS</name>
-    <description>
-    </description>
+    <description></description>
     <url>https://github.com/ThorbenKuck/MMS</url>
     <properties>
         <project.build.sourceEncoding>
